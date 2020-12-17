@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConversionTests": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Temp\\temp\\test data\" \"C:\\Temp\\export\""
+    }
+  }
+}
