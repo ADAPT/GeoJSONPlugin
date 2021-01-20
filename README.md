@@ -1,5 +1,7 @@
 # GeoJSON ADAPT plugin that writes Geospatial data into a JSON file and structered as GeoJSON
 
+See https://www.youtube.com/watch?v=kMJbPfA1KD0&feature=youtu.be for a demonstration
+
 - Exporting the following geospatial data:
 - [X] Field Boundaries
 - [X] Headlands
